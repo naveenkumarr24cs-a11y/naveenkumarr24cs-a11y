@@ -56,12 +56,18 @@ Phone       : +91 8838303331
 ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=white)
 
-### AI & Backend
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-000000?style=for-the-badge&logo=webrtc&logoColor=white)
+
+### AI & LLMs
 ![Gemini](https://img.shields.io/badge/Gemini%20AI-000000?style=for-the-badge&logo=google&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20AI-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-000000?style=for-the-badge&logo=webrtc&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
