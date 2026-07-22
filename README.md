@@ -95,6 +95,18 @@ Phone       : +91 8838303331
 | Squirrel Runner | Responsive 2D Endless Runner with custom physics, enemy AI and in-game economy | [Play Now](https://squirrel26game.netlify.app) |
 
 
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveenkumarr24cs-a11y&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarr24cs-a11y&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&dates=999999&border=333333" alt="GitHub Streak" />
+
+</div>
+
+---
 
 ## Connect With Me
 
