@@ -94,30 +94,7 @@ Phone       : +91 8838303331
 | Dino Dash 3D | 3D Endless Runner with GLB animations, parallax environments and dynamic lighting | [Play Now](https://dino2game.netlify.app) |
 | Squirrel Runner | Responsive 2D Endless Runner with custom physics, enemy AI and in-game economy | [Play Now](https://squirrel26game.netlify.app) |
 
----
 
-## GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveenkumarr24cs-a11y&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarr24cs-a11y&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&dates=999999&border=333333" alt="GitHub Streak" />
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarr24cs-a11y&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=333333&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=naveenkumarr24cs-a11y&theme=darkhub&no-frame=true&row=1&column=6)
-
-</div>
-
----
 
 ## Connect With Me
 
