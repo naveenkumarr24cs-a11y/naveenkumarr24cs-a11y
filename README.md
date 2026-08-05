@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&height=80&lines=Hi+there%2C+I'm+Naveen+Kumar;Software+Engineer+%7C+Game+Developer;AI+Engineer+%7C+Full-Stack+Builder;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=naveenkumarr24cs-a11y&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
