@@ -76,11 +76,11 @@ Phone       : +91 8838303331
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| Text2Game Studio | AI-Powered 3D Game Engine - build games with voice prompts using Gemini API. Zero coding needed. | React, Three.js, WebGL, Gemini API, TypeScript |
+| [Text2Game Studio](https://github.com/naveenkumarr24cs-a11y/TEXT2GAME-STUDIO) | Browser-based AI 3D game engine. Build games instantly with voice prompts using Neural Architect AI. | React, TypeScript, Three.js, Vite, Gemini AI |
 | [PayanMitra App](https://github.com/naveenkumarr24cs-a11y/PayanMitra-APP) | Government bus companion app with live tracking, GPS auto-detect, and Gemini AI Chatbot. | Kotlin, Jetpack Compose, Firebase, Gemini API |
 | [KrishiMitra AI](https://github.com/naveenkumarr24cs-a11y/KrishiMitra-APP) | Smart farm companion with live market prices, Govt schemes matching, and 7-day weather advisories. | React Native, JavaScript, Zustand, REST APIs |
-| Smart Education App | AI-powered adaptive tutor with EduBot supporting Tamil and English students. | Next.js, FastAPI, LLM Gemini |
-| MotionHub | Real-time WebGL 3D character animation retargeting tool. | React, Three.js, Vite, WebGL |
+| [Smart Education App](https://github.com/naveenkumarr24cs-a11y/learn-app) | AI-powered adaptive tutor with EduBot supporting personalized learning paths in regional languages. | Next.js, FastAPI, LLMs (Gemini/OpenAI) |
+| [MotionHub](https://github.com/naveenkumarr24cs-a11y/animation) | Real-time WebGL 3D character animation retargeting tool and studio. | React, Three.js, Vite, WebGL, TypeScript |
 
 ---
 
