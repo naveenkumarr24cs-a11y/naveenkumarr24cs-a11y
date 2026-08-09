@@ -9,17 +9,6 @@
 
 ## About Me
 
-```yaml
-Name        : Naveen Kumar
-Role        : Software Engineer | Game Developer | AI Engineer
-College     : PSNA College of Engineering & Technology, Dindigul
-Degree      : B.E. Computer Science & Engineering (2024 - 2028)
-CGPA        : 7.62
-Location    : Dindigul, Tamil Nadu, India
-Email       : naveenkumarnaveenkumar5277@gmail.com
-Phone       : +91 8838303331
-```
-
 > Passionate about building AI-powered applications, browser-based games, and impactful full-stack solutions across gaming, AgriTech, EdTech, and IoT domains.
 
 ---
