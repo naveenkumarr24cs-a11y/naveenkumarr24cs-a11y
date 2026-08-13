@@ -28,6 +28,29 @@ I’m constantly learning, experimenting with new technologies, and improving th
 
 ---
 
+◈ MY MINDSET
+
+<div align="center">
+
+01 — CURIOSITY
+
+I like understanding how things work instead of simply using them.
+
+02 — EXPERIMENTATION
+
+Ideas become valuable when they are tested, broken, improved, and rebuilt.
+
+03 — CREATIVITY
+
+Technology becomes powerful when engineering meets imagination.
+
+04 — CONTINUOUS GROWTH
+
+Every project, error, and experiment is another opportunity to become better.
+
+</div>
+
+
 ## 🛠️ Tech Stack
 
 <div align="center">
