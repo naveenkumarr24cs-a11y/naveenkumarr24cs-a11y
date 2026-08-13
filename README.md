@@ -12,14 +12,19 @@
 </div>
 
 ---
+◈ ABOUT ME
 
-## Who I Am
+I'm Naveen Kumar, a software developer and Computer Science student who enjoys turning ideas into meaningful digital experiences.
 
-I'm a software developer who builds things that matter.
+I’m naturally curious about how technology works beneath the surface, but I’m equally interested in how people experience the things we build. I enjoy moving between software engineering, artificial intelligence, game development, 3D technologies, mobile applications, and the web.
 
-I don't just learn technologies — I apply them to real problems. I've built an **AI video generator** that turns any topic into a full educational lesson with narration. I've built a **government bus app** that helps passengers with live GPS tracking and an AI chatbot. I've built a **2D Android fighting game** with a custom physics engine and an intelligent AI opponent, entirely from scratch. And I've built a **voice-controlled 3D game engine** that runs entirely in the browser.
+My approach is simple:
 
-What sets me apart is that I work across multiple domains — **Game Development**, **AI Engineering**, and **Mobile & Web** — and I connect them. I don't just code features. I ship products.
+Learn deeply. Experiment boldly. Build continuously.
+
+I enjoy taking an idea from a blank screen and gradually turning it into something interactive, useful, and real. I’m especially drawn to technologies that combine creativity with engineering—where code can become an experience rather than just a collection of functions.
+
+I’m constantly learning, experimenting with new technologies, and improving the way I think, design, and build.
 
 ---
 
